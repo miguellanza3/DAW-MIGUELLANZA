@@ -1,0 +1,53 @@
+/*h1{
+  color:blue;
+  font-size: 30px;
+  font-family: Verdana;
+  }
+*/
+
+/*Selectores
+* {
+font-family: Verdana;
+
+}*/
+
+body {
+font-family: Verdana;
+margin: 0;
+}
+
+header {
+  background: cornflowerblue;
+  color: white;
+  margin: 0px 0px;
+  padding: 20px 10px;
+  text-align: center;
+/*  border:10px dotted green;*/
+}
+
+.portada  {
+  text-align: center;
+  background: Gainsboro;
+  }
+
+/*uso del ID*/
+
+#main-footer {
+  text-align: center;
+  font-weight: bold;
+}
+
+.turismo {
+  text-align: center;
+  font-family: sans-serif;
+  color: blue;
+}
+
+.portada h2 {
+  text-transform: uppercase;
+}
+
+.portada p {
+  font-style: italic;
+
+}
